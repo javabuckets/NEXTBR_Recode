@@ -1,0 +1,14 @@
+name: NEXTBR
+main: com.nextlan.br.NEXTBR
+version: Alpha
+description: Battle Royale Plugin
+
+commands:
+  brstart:
+  brstop:
+  brrestart:
+  brpause:
+  brvotestart:
+  spectate:
+  lobby:
+  autofollow:
